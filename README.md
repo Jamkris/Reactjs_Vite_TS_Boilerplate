@@ -14,7 +14,6 @@
 
 client <br>
  ┣ public <br>
- ┃ ┗ index.html <br>
  ┣ src <br>
  ┃ ┣ assets <br>
  ┃ ┃ ┣ font <br>
@@ -30,7 +29,7 @@ client <br>
  ┃ ┃ ┃ ┗ style <br>
  ┃ ┣ pages <br>
  ┃ ┃ ┗ Main <br>
- ┃ ┃ ┃ ┣ index.t <br>sx
+ ┃ ┃ ┃ ┣ index.t <br>
  ┃ ┃ ┃ ┗ style.ts <br>
  ┃ ┣ router <br>
  ┃ ┃ ┗ index.tsx <br>
